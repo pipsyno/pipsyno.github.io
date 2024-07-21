@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pipsyno.github.io/sitemap
+Sitemap: https://pipsyno.github.io/app/sitemap
+Sitemap: https://pipsyno.github.io/assets/sitemap
+Sitemap: https://pipsyno.github.io/css/sitemap
+Sitemap: https://pipsyno.github.io/includes/sitemap
+Sitemap: https://pipsyno.github.io/item/sitemap
+Sitemap: https://pipsyno.github.io/src/sitemap
